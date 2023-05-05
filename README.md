@@ -1,9 +1,10 @@
 ## Hey, I'm tibue99 👋
-- I'm a python programmer
+[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/203208036053942272)
+[![](https://img.shields.io/badge/EzCord-00A966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tibue99/ezcord)
+[![](https://img.shields.io/badge/Keks_Bot-orange?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://keksbot.xyz)
+
+- I like working with Python and databases
 - I develop Discord bots using [Pycord](https://github.com/Pycord-Development/pycord)
 
-##### German Coding Server 🍪
-[![](https://img.shields.io/discord/1010915072694046794?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/zfvbjTEzv6)
-
 ### Stats
-[![](https://github-readme-stats.vercel.app/api?username=tibue99&theme=dracula&count_private=true&show_icons=true&hide=stars)](https://tibue99.github.io)
+[![](https://github-readme-stats.vercel.app/api?username=tibue99&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://tibue99.github.io)
