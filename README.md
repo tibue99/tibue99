@@ -3,8 +3,8 @@
 [![](https://img.shields.io/badge/EzCord-00A966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tibue99/ezcord)
 [![](https://img.shields.io/badge/Keks_Bot-D0567A?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://keksbot.xyz)
 
-- I like working with Python and databases
-- I develop Discord bots using [Pycord](https://github.com/Pycord-Development/pycord)
+- I like working with **Python** and **Discord bots** 🤖
+- I am interested in backend development and databases 🍪
 
 ### Stats
-[![](https://github-readme-stats.vercel.app/api?username=tibue99&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://tibue99.github.io)
+[![](https://github-readme-stats.vercel.app/api?username=tibue99&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/tibue99)
