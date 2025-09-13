@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Timo 
-Hi, I'm a software developer from Germany. In my spare time, I enjoy working on Games or Discord bots.
+Hi, I'm a software developer from Germany. In my spare time, I enjoy working on games or Discord bots.
 
 ## 💻 My Tools
 [![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
