@@ -10,6 +10,3 @@ Hi, I'm a software developer from Germany. In my spare time, I enjoy working on 
 [![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
 [![](https://skillicons.dev/icons?i=postgres)](https://postgresql.org/ "PostgreSQL")
 [![](https://skillicons.dev/icons?i=unreal)](https://unrealengine.com/ "Unreal Engine")
-
-## 🚀 My Stats
-[![](https://github-readme-stats.vercel.app/api?username=tibue99&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/tibue99)
